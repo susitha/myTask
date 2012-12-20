@@ -388,6 +388,7 @@ ABPeoplePickerNavigationController *newPeoplePicker;
         }
              
         [email2 release];
+        
         [email release];
 
     }
