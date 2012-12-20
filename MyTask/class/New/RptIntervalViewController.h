@@ -2,7 +2,7 @@
 //  RptIntervalViewController.h
 //  MyTask
 //
-//  Created by Samir Husain on 7/24/12.
+//  Created by Susitha Janaka on 7/24/12.
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 

@@ -2,7 +2,7 @@
 //  MakeTaskViewController.h
 //  MyTask
 //
-//  Created by Samir Husain on 7/16/12.
+//  Created by Susitha Janaka on 7/16/12.
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 

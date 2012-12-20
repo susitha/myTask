@@ -2,7 +2,7 @@
 //  SecondViewController.m
 //  MyTask
 //
-//  Created by Samir Husain on 6/26/12.
+//  Created by Susitha Janaka on 6/26/12.
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
